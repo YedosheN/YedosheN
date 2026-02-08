@@ -22,6 +22,11 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E31225?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat&logo=hexo&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat&logo=redhat&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=flat&logo=windows&logoColor=white)
+![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat&logo=microsoft&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ---
 
@@ -31,13 +36,7 @@
 - Game Design / Interior Design
 - Operating System Software
 - Reverse & debugging
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat)
-![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat)
-![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=flat)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-
-
+  
 ---
 
 🧠 Core Expertise
