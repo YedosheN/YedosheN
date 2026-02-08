@@ -1,7 +1,8 @@
 <h1 align="center"> Hi, I'm YedosheN 👋 </h1>
 <p align="center">
-  <i>Gerkçek Adım <b>Enes</b> 17 Yaşndayım</i><br/>
+  <i>Gerkçek Adım <b>Enes</b> 18 Yaşndayım</i><br/>
   12 yaşımdan beri yazılımla uğraşıyorum. (GPA: 3.52)
+  son projem <b>Quantix Private</b>
 </p>
 
 ---
