@@ -31,7 +31,21 @@
 - Game Design / Interior Design
 - Operating System Software
 - Reverse & debugging
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat)
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat)
+![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=flat)
+![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
+
+---
+
+🧠 Core Expertise
+
+- Low-Level Systems Programming
+- Windows Internals
+- Memory Analysis & Debugging
+- Binary Analysis
 
 ---
 
