@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![LUA](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![LUA](https://img.shields.io/badge/lua-blue?logo=lua)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### ⚙️ Tools & Technologies
@@ -47,18 +47,6 @@
 
 ---
 
-### 📫 Let's Connect
-
-- 📩 Email: [berfins.4615@gmail.com](mailto:berfins.4615@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/berfin-s%C3%BCnnetcio%C4%9Flu-4ab9681b3/)  
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Berfin4615&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### 📊 GitHub Stats
 
@@ -69,7 +57,7 @@
 
 ---
 
-### 📊 LeetCode Stats
+### discord : private.xyz
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user4150sX?theme=dark&font=Ubuntu&ext=heatmap)
 
