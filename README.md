@@ -15,7 +15,7 @@ Tanrı Kimseyi Sevmiyor.
   
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Teknoloji Yığınım
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,7 +24,7 @@ Tanrı Kimseyi Sevmiyor.
 ![LUA](https://img.shields.io/badge/lua-blue?logo=lua)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### ⚙️ Tools & Technologies
+#### ⚙️ Kullandığım Tools & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -37,15 +37,6 @@ Tanrı Kimseyi Sevmiyor.
 ![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat&logo=microsoft&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
----
-
-## 🚀 What I Do?
-
-- Bypass Engineering
-- Game Design / Interior Design
-- Operating System Software
-- Reverse & debugging
-  
 ---
 
 🧠 Core Expertise
