@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm YedosheN 👋 </h1>
 <p align="center">
-  <i>Gerkçek Adım <b>Enes</b> 19 Yaşndayım</i><br/>
-  (GPA: 3.52)
+  <i>Gerkçek Adım <b>Enes</b> 17 Yaşndayım</i><br/>
+  12 yaşımdan beri yazılımla uğraşıyorum. (GPA: 3.52)
 </p>
 
 ---
