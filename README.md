@@ -1,21 +1,10 @@
 <h1 align="center"> Hi, I'm YedosheN 👋! </h1>
 <p align="center">
   <i>Gerkçek Adım <b>Enes</b> 19 Yaşndayım</i><br/>
-  🎓 Computer Education & Instructional Technologies graduate from <b>METU</b> (GPA: 3.56)
+  (GPA: 3.52)
 </p>
 
 ---
-
-### 💻 About Me
-
-- 🎓 Graduated with honors from METU with a GPA of 3.56  
-- 🤖 Winner of the **ITURO 2023** Robotics Competition - Traffic Tracking Robot  
-- 💡 Hands-on experience in R&D projects with Aselsan & Huawei  
-- 🌍 Participant of international hackathons and trainings like Microsoft Women in AI, IBM AI for Everyone, and more  
-- 🔬 Currently working on ROS, simulation, and reinforcement learning in robotics  
-
----
-
 
 ### ⚙️ Tech Stack
 
@@ -36,31 +25,4 @@
 
 ---
 
-### 🏆 Awards & Projects
-
-- 🥇 **ITURO 2023** – 1st place in Traffic Robot Category  
-- 🥇 **BRO-CUP / KELEBEKRO** – Multiple awards in sumo & maze-solving competitions  
-- 🌐 **Microsoft Women in AI Hackathon (2024)** – AI-based travel planner using Azure  
-- 📰 **Anadolu Agency Hackathon (2024)** – AI-powered news generation platform  
-- 📱 **Huawei R&D Coding Marathon (2023)** – Mobile app recommending DIY videos based on photo input  
-- 🔍 **Akbank AI Academy** – Drought prediction using AI & Azure  
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berfin4615&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berfin4615&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-### discord : private.xyz
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/user4150sX?theme=dark&font=Ubuntu&ext=heatmap)
-
----
-
-<p align="center">🚀 Always building, always learning!</p>
+<p align="center">discord: private.xyz</p>
