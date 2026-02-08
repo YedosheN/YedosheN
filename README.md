@@ -6,8 +6,8 @@ Tanrı Kimseyi Sevmiyor.
 ---
 
 ### 👋 Ben Kimim?
-- Gerçek Adım <b>Enes</b> 17 Yaşındayım Türkiyede Yaşıyorum
-- 11 Yaşımdan Beri Çoğu  Tür İle İlgilendim Bunlardan En Öne Çıkanlarım;
+Merhaba, ben YedosheN. 17 yaşındayım ve Türkiye’de yaşıyorum.
+Yaklaşık 11 yaşımdan beri yazılım ve sistem dünyasının farklı alanlarıyla aktif olarak ilgileniyorum.
 * Bypass Engineering
 * Script Development
 * Operating System Software
