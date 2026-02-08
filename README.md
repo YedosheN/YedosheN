@@ -5,6 +5,16 @@ Tanrı Kimseyi Sevmiyor.
 
 ---
 
+### 👋 Ben Kimim?
+- Gerçek Adım <b>Enes</b> 17 Yaşındayım Türkiyede Yaşıyorum
+- 11 Yaşımdan Beri Çoğu  Tür İle İlgilendim Bunlardan En Öne Çıkanlarım;
+* Bypass Engineering
+* Script Development
+* Operating System Software
+* Reverse & debugging
+  
+---
+
 ### ⚙️ Tech Stack
 
 #### 💻 Programming Languages
