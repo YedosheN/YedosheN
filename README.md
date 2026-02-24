@@ -5,13 +5,30 @@ Tanrı Kimseyi Sevmiyor.
 
 ---
 
-### 👋 Ben Kimim?
-Merhaba, ben YedosheN. 17 yaşındayım ve Türkiye’de yaşıyorum.
-Yaklaşık 11 yaşımdan beri yazılım ve sistem dünyasının farklı alanlarıyla aktif olarak ilgileniyorum.
-* Bypass Engineering
-* Script Development
-* Operating System Software
-* Reverse & debugging
+const nachash = {
+  name: "YedosheN",
+  age: 18,
+  location: "Turkey",
+  role: "Backend Developer",
+  discord: {
+    username: "private.xyz",
+    id: "1194296625733058680"
+  },
+  interests: [
+    Bypass Engineering
+    Script Development
+    Operating System Software
+    Reverse & debugging
+  ],
+  currentlyLearning: [
+    "Rust",
+    "Kubernetes",
+    "Advanced Security"
+  ],
+};
+
+console.log(`Hello! I'm ${yedoshen.name}, a ${yedoshen.role}`);
+
   
 ---
 
