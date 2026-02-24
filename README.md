@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm YedosheN 👋 </h1>
 <p align="center">
 Tanrı Kimseyi Sevmiyor.
-</p>
+</p></p>
 
 ---
 
