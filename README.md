@@ -4,16 +4,6 @@ Tanrı Kimseyi Sevmiyor.
 </p></p>
 
 ---
-
-const nachash = {
-  name: "YedosheN",
-  age: 18,
-  location: "Turkey",
-  role: "Backend Developer",
-  discord: {
-    username: "private.xyz",
-    id: "1194296625733058680"
-  },
   interests: [
     Bypass Engineering
     Script Development
@@ -28,6 +18,16 @@ const nachash = {
 };
 
 console.log(`Hello! I'm ${yedoshen.name}, a ${yedoshen.role}`);
+
+const YedosheN = {
+  name: "YedosheN",
+  age: 18,
+  location: "Turkey",
+  role: "Backend Developer",
+  discord: {
+    username: "private.xyz",
+    id: "1194296625733058680"
+  },
 
   
 ---
