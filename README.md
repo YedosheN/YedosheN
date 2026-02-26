@@ -12,8 +12,8 @@
 
 Bende Kendim Hakkında Birşey Bilmiyorum.
 
-- Age: 18
-- Location: Turkey
+Age: 18
+Location: Turkey
 
 ---
 
