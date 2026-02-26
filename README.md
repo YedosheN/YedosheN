@@ -12,8 +12,8 @@
 
 Bende Kendim Hakkında Birşey Bilmiyorum.
 
-Age: 18
-Location: Turkey
+- Age: 18
+- Location: Turkey
 
 ---
 
@@ -54,8 +54,6 @@ Location: Turkey
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YedosheN&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YedosheN&layout=compact&theme=highcontrast" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YedosheN&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
